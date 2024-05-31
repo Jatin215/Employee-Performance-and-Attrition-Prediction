@@ -18,8 +18,11 @@ Finally, we have compared the performance of these models using various performa
 For this project, we have used an IBM employee data set hosted on Kaggle that contains various personal and professional information about an employee (i.e. Attrition, Age, Monthly Income, etc). The dataset was last updated in 2017 and does not have any missing data, which makes it easier to work with.
 
 ## Tech Stack/Frameworks
+
 Data Cleaning: NumPy, Pandas
+
 Visualization: Matplotlib, Seaborn
+
 Machine Learning Models: Random Forest, Logistic Regression, Stochastic Gradient Descent, Support Vector Classfier, K-Nearest Neighbor, Decision Trees
 
 ## Contributions
